@@ -1,4 +1,4 @@
-#A Calendar Website Project
+# A Calendar Website Project
 
 *This calendar is coded using **PHP** language.
 
